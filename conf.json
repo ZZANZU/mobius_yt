@@ -1,5 +1,5 @@
 {
-    "csebaseport":7579,
+    "csebaseport":3306,
     "dbhost":"chanjoodb.c1paccwhskpj.us-east-2.rds.amazonaws.com",
     "dbaccount":"chanjoo",
     "dbpass":"dlckswn123"
